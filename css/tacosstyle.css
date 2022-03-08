@@ -1,0 +1,33 @@
+
+#bodycss {
+    text-align: center;
+    background-color: floralwhite;
+}
+
+.firstheader {
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+
+.ingredientshead {
+    color:forestgreen
+}
+
+
+
+.stepsheader {
+    color:forestgreen
+}
+
+.description {
+    font-size: 24px;
+}
+
+#ingredientslist #anitem {
+    font-size: 20px;
+}
+
+#steplist #astep {
+    font-size: 20px;
+    color:navy
+}

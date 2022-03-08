@@ -1,0 +1,51 @@
+
+#pizzabackground {
+    background-color: wheat;
+}
+
+#pizzaheader {
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+}
+
+#centerpizzapic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#picdescription {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 26px;
+}
+
+#headtwoinst {
+    text-align: center;
+
+}
+
+.stepslist {
+    text-align: center;
+    font-size: 20px;
+}
+
+.ingredientslist {
+    text-align: center;
+    font-size: 20px;
+}
+
+#gobackbutton {
+    font-weight: bold;
+
+    font-size: 20px;
+}
+
+#centerpizzapictwo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}

@@ -1,0 +1,26 @@
+
+#beansbackground {
+    background-color: darkcyan;
+    text-align: center;
+}
+
+#description {
+    font-size: 22px;
+}
+
+#ingredientsheader {
+    font-style: oblique;
+}
+
+#stepsheader {
+    font-style: oblique;
+}
+
+.actualsteps .astep {
+    font-size: 20px;
+
+}
+
+.aingredient {
+    font-size: 20px;
+}

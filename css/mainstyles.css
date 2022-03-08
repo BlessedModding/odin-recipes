@@ -1,0 +1,21 @@
+
+
+#header {
+    font: serif;
+    font-size: 38px;
+    text-align: center;
+    color:darkolivegreen
+
+}
+
+#foodlist {
+   font-size: 24px;
+  text-align: center;
+  
+
+
+}
+
+#pagebackground {
+   background-color: lightslategray;
+}
